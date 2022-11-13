@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300&display=swap');
+.btnheader
+{
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+    font-family: 'Noto Sans SC', sans-serif;
+    font-weight: 500;
+}
+.btn
+{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.375rem;
+    padding-bottom: 0.375rem;
+    font-size: 1rem;
+    border-width: 2px;
+    border-radius: 0.75rem;
+    border-color: black;
+    cursor: pointer;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+.btn-pri
+{
+    background-color: #0d6efd;
+    color: #fff;
+}
+.btn-pri:hover
+{
+    background-color: #0b5ed7;
+}
+.btn-sec
+{
+    background-color: #6c757d;
+    color: #fff;
+}
+.btn-sec:hover
+{
+    background-color: #5c636a;
+}
+.btn-suc
+{
+    background-color: #198754;
+    color: #fff;
+}
+.btn-suc:hover
+{
+    background-color: #157347;
+}
+.btn-dan
+{
+    background-color: #dc3545;
+    color: #fff;
+}
+.btn-dan:hover
+{
+    background-color: #bb2d3b;
+}
+.btn-war
+{
+    background-color: #ffc107;
+    color: #000;
+}
+.btn-war:hover
+{
+    background-color: #ffca2c;
+}
+.btn-lig
+{
+    background-color: #f8f9fa;
+    color: #000;
+}
+.btn-lig:hover
+{
+    background-color: #d3d4d5;
+}
+.btn-dar
+{
+    background-color: #212529;
+    color: #fff;
+}
+.btn-dar:hover
+{
+    background-color: #424649;
+}
