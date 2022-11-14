@@ -59,12 +59,12 @@
 }
 .btn-war
 {
-    background-color: #ffc107;
+    background-color: #ffca2c;
     color: #000;
 }
 .btn-war:hover
 {
-    background-color: #ffca2c;
+    background-color: #ffc107;
 }
 .btn-lig
 {
