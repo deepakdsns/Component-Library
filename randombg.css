@@ -1,0 +1,14 @@
+.bg
+{
+    width: 25%;
+    height: 25vh;
+    background-color: brown;
+    border-radius: 10px;
+    padding: 10px;
+}
+#submitbtn
+{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+}
